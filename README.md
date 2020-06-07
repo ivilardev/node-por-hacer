@@ -10,10 +10,12 @@ npm install
 
 ### Comandos a utilizar en la aplicación
 
-- node app listar
-- node app crear -d "Ejemplo de Tarea"
-- node app actualizar -d "Ejemplo de Tarea" -c true
-- node app borrar -d "Ejemplo de Tarea"
+```
+$ node app listar
+$ node app crear -d "Ejemplo de Tarea"
+$ node app actualizar -d "Ejemplo de Tarea" -c true
+$ node app borrar -d "Ejemplo de Tarea"
+```
 
 Shortcuts:
 -d --> descripcion
